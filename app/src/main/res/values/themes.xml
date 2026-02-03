@@ -5,5 +5,8 @@
         <item name="android:windowBackground">@color/bg_main</item>
         <item name="colorSurface">@color/surface_card</item>
         <item name="android:textColorPrimary">@color/text_high_emphasis</item>
+
+        <item name="android:statusBarColor">@color/bg_main</item>
+        <item name="android:windowLightStatusBar">true</item>
     </style>
 </resources>
