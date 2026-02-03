@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ThemeApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_brand</item>
+        <item name="android:windowBackground">@color/bg_main</item>
+        <item name="colorSurface">@color/surface_card</item>
+        <item name="android:textColorPrimary">@color/text_high_emphasis</item>
+    </style>
+</resources>
